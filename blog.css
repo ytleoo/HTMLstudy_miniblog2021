@@ -116,5 +116,14 @@
   padding-left: 10px;
 }
 
+.new::after {
+  content: "New!";
+  position: absolute;
+  top: 0;
+  right: 20px;
+  background: #ed8080;
+  padding: 5px;
+}
+
 
 
